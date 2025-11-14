@@ -1,3 +1,15 @@
 Agentic AI
 Lang graph
 lang chain
+
+Python
+Oops in python
+Probablity
+Vector Database
+Chunking
+APIS in python
+Docker
+Redis
+lang chain
+Crew AI
+Shorting and Searching Algo
