@@ -4,7 +4,7 @@ lang chain
 
 Python
 Oops in python
-Probablity
+Probability
 Vector Database
 Chunking
 APIS in python
