@@ -1,7 +1,3 @@
-Agentic AI
-Lang graph
-lang chain
-
 Python
 Oops in python
 Probability
@@ -10,6 +6,8 @@ Chunking
 APIS in python
 Docker
 Redis
+Agentic AI
+Lang graph
 lang chain
 Crew AI
 Shorting and Searching Algo
