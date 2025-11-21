@@ -5,6 +5,7 @@ Vector Database
 Chunking
 APIS in python
 Docker
+MySql
 Redis
 Agentic AI
 Lang graph
